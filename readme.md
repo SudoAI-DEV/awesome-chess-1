@@ -410,6 +410,7 @@ Chess has grown into a vast ecosystem of servers, software, media, and open-sour
 - [FEN Tool](https://mutsuntsai.github.io/fen-tool/) - Lightweight client-side FEN utility for composing problems and generating diagrams with a clean, minimal interface.
 - [Chessvision.ai](https://chessvision.ai) - Browser extension and API that OCRs chess diagrams from images, PDFs and video frames.
 - [fenshot](https://github.com/scoriiu/fenshot) - Open-source screenshot-to-FEN recognition running entirely in the browser, reads site screenshots and book diagrams and opens them on Lichess.
+- [ScanChess](https://scanchess.com) - Free web OCR for board photos/screenshots to editable FEN and multi-page handwritten scoresheets to PGN; browser PGN/FEN viewers need no account.
 
 ## APIs and Data Sources
 
